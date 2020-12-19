@@ -56,7 +56,7 @@ PYTHON
   j. Pivot <br>
   k. Cross tab <br>
 
-8.	Data Visualization
+8.	Data Visualization <br>
   a. Introduction to Plots <br>
   b. Matplotlib <br>
   c. Line Plots <br>
