@@ -1,4 +1,4 @@
-# Python Course Contents
+# Python Contents
 
 PYTHON 
 1.	Introduction <br>
@@ -25,47 +25,47 @@ PYTHON
   e. List and Dictonary Comprehensions <br>
 
 5.	Functions
-  > Pass By Value
-  > Pass By Reference
-  > Scope of Variables
-  > Function Arguments
-  > Lambda Function
-  > Map, Filter and Reduce
+  a. Pass By Value <br>
+  b. Pass By Reference <br>
+  c. Scope of Variables <br>
+  d. Function Arguments <br>
+  e. Lambda Function <br>
+  f. Map, Filter and Reduce <br>
 
 6.	File Handling
-  > Create, Read, Write files
-  > Operations in File Handling
+  a. Create, Read, Write files
+  b. Operations in File Handling
 
 7.	Packages
-  > Numpy
-  > Arrays
-  > Basic Operations using Numpy
-  > Indexing & Array Processing  
-  > Exploring various functions in Numpy
+  a. Numpy <br>
+  b. Arrays <br>
+  c. Basic Operations using Numpy <br>
+  d. Indexing & Array Processing   <br>
+  e. Exploring various functions in Numpy <br>
 
 8. Pandas
-  > Series
-  > DataFrames
-  > Indexing and slicing
-  > Groupby
-  > Concatenating
-  > Merging Joining
-  > Missing Values
-  > Operations
-  > Data Input and Output
-  > Pivot
-  > Cross tab
+  a. Series <br>
+  b. DataFrames <br>
+  c. Indexing and slicing <br>
+  d. Groupby <br>
+  e. Concatenating <br>
+  f. Merging Joining <br>
+  g. Missing Values <br>
+  h. Operations <br>
+  i. Data Input and Output <br>
+  j. Pivot <br>
+  k. Cross tab <br>
 
 8.	Data Visualization
-  > Introduction to Plots
-  > Matplotlib
-  > Line Plots
-  > Histograms
-  > Box and Violin Plots
-  > Scatter Plot
-  > Sub Plots
-  > Seaborn
-9.	Exception Handling
+  a. Introduction to Plots <br>
+  b. Matplotlib <br>
+  c. Line Plots <br>
+  d. Histograms <br>
+  e. Box and Violin Plots <br>
+  f. Scatter Plot <br>
+  g. Sub Plots <br>
+  h. Seaborn <br>
+9.	Exception Handling <br>
 10.	Project
 
 
