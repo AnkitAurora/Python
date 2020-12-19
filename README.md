@@ -12,19 +12,19 @@ PYTHON
   a. Variables and Strings <br>
   b. Lists, Sets, Tuples and Dictionaries <br>
 
-3.	Control Flow Statements
+3.	Control Flow Statements <br>
   a. Conditional Operators <br>
   b. Arithmetic Operators <br>
   c. Logical Operators <br>
 
-4.	Conditional Statements
+4.	Conditional Statements <br>
   a. If, Elif and Else Statements <br>
   b. While Loops <br>
   c. For Loops <br>
   d. Nested Loops <br>
   e. List and Dictonary Comprehensions <br>
 
-5.	Functions
+5.	Functions <br>
   a. Pass By Value <br>
   b. Pass By Reference <br>
   c. Scope of Variables <br>
@@ -32,18 +32,18 @@ PYTHON
   e. Lambda Function <br>
   f. Map, Filter and Reduce <br>
 
-6.	File Handling
-  a. Create, Read, Write files
-  b. Operations in File Handling
+6.	File Handling <br>
+  a. Create, Read, Write files <br>
+  b. Operations in File Handling <br>
 
-7.	Packages
+7.	Packages <br>
   a. Numpy <br>
   b. Arrays <br>
   c. Basic Operations using Numpy <br>
   d. Indexing & Array Processing   <br>
   e. Exploring various functions in Numpy <br>
 
-8. Pandas
+8. Pandas <br>
   a. Series <br>
   b. DataFrames <br>
   c. Indexing and slicing <br>
@@ -66,6 +66,6 @@ PYTHON
   g. Sub Plots <br>
   h. Seaborn <br>
 9.	Exception Handling <br>
-10.	Project
+10.	Project <br>
 
 
