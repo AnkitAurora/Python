@@ -2,11 +2,11 @@
 
 PYTHON
 1.	Introduction
-  > What is Python?
-  > Why Python is required for Data Science?
-  > Comparison between R and Python
-  > Understanding Jupyter Notebook
-  > Understanding Spyder
+  a. What is Python?
+  b. Why Python is required for Data Science?
+  c. Comparison between R and Python
+  d. Understanding Jupyter Notebook
+  e. Understanding Spyder
 
 2.	Data  Types and Data Structures
   > Variables and Strings
