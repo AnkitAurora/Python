@@ -1,28 +1,28 @@
 # Python Course Contents
 
-PYTHON
-1.	Introduction
+PYTHON 
+1.	Introduction <br>
   a. What is Python? <br>
-  b. Why Python is required for Data Science?
-  c. Comparison between R and Python
-  d. Understanding Jupyter Notebook
-  e. Understanding Spyder
+  b. Why Python is required for Data Science? <br>
+  c. Comparison between R and Python <br>
+  d. Understanding Jupyter Notebook <br>
+  e. Understanding Spyder <br>
 
-2.	Data  Types and Data Structures
-  > Variables and Strings
-  > Lists, Sets, Tuples and Dictionaries
+2.	Data Types & Data Structures <br>
+  a. Variables and Strings <br>
+  b. Lists, Sets, Tuples and Dictionaries <br>
 
 3.	Control Flow Statements
-  > Conditional Operators
-  > Arithmetic Operators
-  > Logical Operators
+  a. Conditional Operators <br>
+  b. Arithmetic Operators <br>
+  c. Logical Operators <br>
 
 4.	Conditional Statements
-  > If, Elif and Else Statements
-  > While Loops
-  > For Loops
-  > Nested Loops
-  > List and Dictonary Comprehensions
+  a. If, Elif and Else Statements <br>
+  b. While Loops <br>
+  c. For Loops <br>
+  d. Nested Loops <br>
+  e. List and Dictonary Comprehensions <br>
 
 5.	Functions
   > Pass By Value
