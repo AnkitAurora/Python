@@ -2,7 +2,7 @@
 
 PYTHON
 1.	Introduction
-  a. What is Python?
+  a. What is Python? <br>
   b. Why Python is required for Data Science?
   c. Comparison between R and Python
   d. Understanding Jupyter Notebook
