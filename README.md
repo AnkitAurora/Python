@@ -1,6 +1,5 @@
 # Python Contents
 
-PYTHON 
 1.	Introduction <br>
   a. What is Python? <br>
   b. Why Python is required for Data Science? <br>
